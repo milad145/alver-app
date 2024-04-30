@@ -1,0 +1,8 @@
+{
+  "url": {
+    "uri": "https://alver.com/",
+    "route": "alver.com",
+    "api": "https://api.laver.com/"
+  },
+  "version": "1.0.0"
+}
